@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Dependencies (don't commit these)
+lambda-functions/LF0/boto3/
+lambda-functions/LF1/boto3/
+lambda-functions/LF2/boto3/
+lambda-functions/*/package/
+
+# Zip files
+*.zip
+
+# AWS credentials (NEVER commit these)
+.aws/
+credentials
+trust-policy.json
+bucket-policy.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.cursor/
+.vscode/
