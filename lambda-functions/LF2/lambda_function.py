@@ -1,3 +1,9 @@
+'''
+This lambda function is triggered by an SQS message. It reads the message from the queue,
+searches for restaurants in OpenSearch by cuisine, picks 3 random restaurants,
+fetches details from DynamoDB, and sends an email to the user with the restaurant suggestions.
+'''
+
 import json
 import boto3
 import os
