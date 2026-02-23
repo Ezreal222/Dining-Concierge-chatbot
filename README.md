@@ -210,4 +210,4 @@ Chinese, Italian, Japanese, Mexican, Indian, Thai, American, Mediterranean
 ---
 
 ## Author
-Yangzheng — NYU Cloud Computing and Big Data, Spring 2026
+Yang Zheng — NYU Cloud Computing and Big Data (Assignment 1), Spring 2026
