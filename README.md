@@ -3,6 +3,13 @@
 
 A serverless, microservice-driven dining concierge chatbot built on AWS. The chatbot collects user preferences through natural conversation and sends personalized restaurant suggestions via email.
 
+## Live Demo
+The frontend was hosted on AWS S3 as a static website during 
+the assignment period.
+
+Frontend URL (no longer active post-submission):
+`http://dining-concierge-yangzheng-2026.s3-website-us-east-1.amazonaws.com`
+
 ---
 
 ## Architecture
