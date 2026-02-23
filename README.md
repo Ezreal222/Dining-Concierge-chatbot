@@ -41,7 +41,7 @@ User → S3 (Frontend) → API Gateway → Lambda (LF0) → Amazon Lex → Lambd
 | **Amazon DynamoDB** | Restaurant data + user state storage |
 | **Amazon OpenSearch** | Restaurant search by cuisine |
 | **Amazon SES** | Email delivery |
-| **Yelp Fusion API** | Restaurant data source |
+| **Yelp Places API** | Restaurant data source |
 
 ---
 
