@@ -8,7 +8,7 @@ The frontend was hosted on AWS S3 as a static website during
 the assignment period.
 
 Frontend URL (no longer active post-submission):
-`http://dining-concierge-yangzheng-2026.s3-website-us-east-1.amazonaws.com`
+[Chatbot](http://dining-concierge-yangzheng-2026.s3-website-us-east-1.amazonaws.com)
 
 ---
 
